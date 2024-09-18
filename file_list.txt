@@ -1,0 +1,5 @@
+total 17K
+-rw-r--r-- 1 82103 197609  12K Sep 18 19:26 LICENSE
+-rw-r--r-- 1 82103 197609 1.7K Sep 18 19:26 README.md
+-rw-r--r-- 1 82103 197609    0 Sep 18 19:49 file_list.txt
+-rw-r--r-- 1 82103 197609    7 Sep 18 19:44 words.txt
